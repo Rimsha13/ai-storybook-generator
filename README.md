@@ -89,3 +89,49 @@ Final Storybook
 ### Generated Storybook
 
 ![Output](assets/output.png)
+
+## 🎥 Project Demonstration
+
+### Complete Workflow
+
+[▶ Watch Complete Workflow](assets/Youseef_Workflow.mp4)
+
+This video demonstrates the complete end-to-end automation workflow.
+
+---
+
+### AI Image Generation
+
+[▶ Watch Image Generation](assets/image-generation-demo.mp4)
+
+Shows how AI illustrations are generated for every scene.
+
+---
+
+### Automated Google Slides Creation
+
+[▶ Watch Slide Creation](assets/slide-creation-demo.mp4)
+
+Demonstrates automatic slide generation and presentation assembly.
+
+## Challenges
+
+- Managing multiple AI API calls
+- Handling long-form story generation
+- Coordinating image generation
+- Error handling and retries
+- Maintaining workflow reliability
+
+## Results
+
+- Fully automated story generation
+- AI-generated illustrations
+- Automatic slide creation
+- Reduced manual effort from hours to minutes
+- Scalable workflow for repeated use
+
+## Note
+
+This repository showcases the architecture and implementation approach of the project.
+
+The production workflow, source code, and client-specific assets are intentionally excluded to respect client confidentiality.
